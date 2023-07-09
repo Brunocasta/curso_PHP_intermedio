@@ -1,0 +1,53 @@
+body{
+    font-family: 'montserrat', sans-serif;
+}
+
+.btn-secondary{
+    background-color: #f73f1e;
+    border: solid 1px #f73f1e;
+    font-weight: 600;
+    border-radius: 20px;
+}
+
+section{
+    background: rgb(160, 78, 78);
+    
+}
+.mensaje{
+    background: rgb(237, 234, 61);
+}
+label, th{
+    color: black;
+    font-weight: 600;
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+    font-weight: 400;
+    font-size: 40px;
+
+}
+.form-control ,textarea{
+    border: solid 1px gray;
+    width: 80%;
+}
+
+li {
+    margin-right: 10px;
+    display: inline;
+    list-style-type: none; 
+    color: black;
+}
+
+header{
+    background-color: #ffe3d9;
+}
+.a {
+    color: rgb(255, 253, 253);
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.menu_principal{
+    background-color: #d19883;
+}
