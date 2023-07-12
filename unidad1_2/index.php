@@ -18,7 +18,7 @@
     <!-- <input > -->
     <div class="row">
         <div>
-            <button type="submit" value="cargar personaje" class="btn btn-secondary">Cargar Personaje</button>
+            <button type="submit" value="cargar personaje" class="btn btn-secondary p-descripcion">Cargar Personaje</button>
         </div>
     </div>
 

@@ -8,7 +8,10 @@ body{
     font-weight: 600;
     border-radius: 20px;
 }
-
+.imgen{
+    width: 300px;
+    height: 300px;
+}
 section{
     background: rgb(160, 78, 78);
     
@@ -50,4 +53,23 @@ header{
 
 .menu_principal{
     background-color: #d19883;
+}
+.button-eliminar{
+    border-radius: 8px;
+    border: none 1px;
+    margin-left: 15px;
+    margin-bottom: 15px;
+    background-color: red;
+    color: white;
+}
+.p-descripcion {
+    margin: 10px;
+    color: beige;
+}
+.contenedor_cargar ,.contenedor_personajes{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    flex-wrap: wrap;
 }
