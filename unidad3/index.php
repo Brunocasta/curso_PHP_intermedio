@@ -28,5 +28,4 @@ echo "La clase proxima  sera :".$clase_proxima ."<br>";
 echo "La clase proxima  sera :".$clase_proxima ."<br>";
 echo strtotime("+1 week");//formato unix de la proxima
 
-
 ?>
